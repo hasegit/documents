@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T03:39:31.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="yEDcaVDjIhu0q-Rn4lQx" version="16.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-20T03:56:47.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="V_-sT9RFXd-JweSITLs9" version="16.5.6" type="github" pages="2">
   <diagram id="3sytTN_ZeQ9Fadu35ZV9" name="Page-1">
     <mxGraphModel dx="830" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -114,16 +114,16 @@
             <mxPoint x="840" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="By5BczcjwjTYP60TUc52-33" value="UseCase" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="By5BczcjwjTYP60TUc52-33" value="UseCases" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="By5BczcjwjTYP60TUc52-34" value="Adapter" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="By5BczcjwjTYP60TUc52-35" value="Domain" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="By5BczcjwjTYP60TUc52-35" value="Entities" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="By5BczcjwjTYP60TUc52-36" value="Infrastructure" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="By5BczcjwjTYP60TUc52-36" value="Framworks&lt;br&gt;Drivers" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="550" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
