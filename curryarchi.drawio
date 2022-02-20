@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T06:20:45.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="YOWp9dPf_ABdNjSmnrQT" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T09:43:17.154Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="AGrIJqhPhaD1BrYjiadD" version="16.5.6" type="github">
   <diagram name="Curry" id="BgHRdOvf98H4T3BhOxgY">
-    <mxGraphModel dx="2207" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2355" dy="1970" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="OF-NH1eZ6VVbjprf6gx7-0" />
         <mxCell id="OF-NH1eZ6VVbjprf6gx7-1" parent="OF-NH1eZ6VVbjprf6gx7-0" />
@@ -53,7 +53,7 @@
         <mxCell id="OF-NH1eZ6VVbjprf6gx7-17" value="提供分のカリー&lt;br&gt;(Output Data)" style="rounded=0;whiteSpace=wrap;html=1;" parent="OF-NH1eZ6VVbjprf6gx7-1" vertex="1">
           <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OF-NH1eZ6VVbjprf6gx7-18" value="カリー提供方式&lt;br&gt;(Output Boundary)" style="rounded=0;whiteSpace=wrap;html=1;" parent="OF-NH1eZ6VVbjprf6gx7-1" vertex="1">
+        <mxCell id="OF-NH1eZ6VVbjprf6gx7-18" value="ウェイター&lt;br&gt;(Output Boundary)" style="rounded=0;whiteSpace=wrap;html=1;" parent="OF-NH1eZ6VVbjprf6gx7-1" vertex="1">
           <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF-NH1eZ6VVbjprf6gx7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=0;" parent="OF-NH1eZ6VVbjprf6gx7-1" source="OF-NH1eZ6VVbjprf6gx7-26" target="OF-NH1eZ6VVbjprf6gx7-16" edge="1">
@@ -81,7 +81,7 @@
         <mxCell id="OF-NH1eZ6VVbjprf6gx7-29" value="カリーという商品&lt;br&gt;(View)" style="rounded=0;whiteSpace=wrap;html=1;" parent="OF-NH1eZ6VVbjprf6gx7-1" vertex="1">
           <mxGeometry x="-520" y="190" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OF-NH1eZ6VVbjprf6gx7-32" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#B5B5B5;" parent="OF-NH1eZ6VVbjprf6gx7-1" edge="1">
+        <mxCell id="OF-NH1eZ6VVbjprf6gx7-32" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#8A8A8A;" parent="OF-NH1eZ6VVbjprf6gx7-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="400" as="sourcePoint" />
             <mxPoint x="-360" y="400" as="targetPoint" />
@@ -156,13 +156,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rrInOrg9L_3WQvXrLkjE-0" value="テイクアウト&lt;br&gt;(Presenter)" style="rounded=0;whiteSpace=wrap;html=1;" parent="OF-NH1eZ6VVbjprf6gx7-1" vertex="1">
+        <mxCell id="rrInOrg9L_3WQvXrLkjE-0" value="テイクアウト係&lt;br&gt;(Presenter)" style="rounded=0;whiteSpace=wrap;html=1;" parent="OF-NH1eZ6VVbjprf6gx7-1" vertex="1">
           <mxGeometry x="-160" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rrInOrg9L_3WQvXrLkjE-4" value="プラ容器&lt;br&gt;(View Model)" style="rounded=0;whiteSpace=wrap;html=1;" parent="OF-NH1eZ6VVbjprf6gx7-1" vertex="1">
           <mxGeometry x="-320" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b59KhlLlg1IPWTAJf_tu-0" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#B5B5B5;" parent="OF-NH1eZ6VVbjprf6gx7-1" edge="1">
+        <mxCell id="b59KhlLlg1IPWTAJf_tu-0" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#8A8A8A;" parent="OF-NH1eZ6VVbjprf6gx7-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-360" as="sourcePoint" />
             <mxPoint x="-360" y="400" as="targetPoint" />
@@ -197,7 +197,7 @@
         <mxCell id="-PEEaS-bJTtw68YUoyjQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="OF-NH1eZ6VVbjprf6gx7-1" source="-PEEaS-bJTtw68YUoyjQ-10" target="OF-NH1eZ6VVbjprf6gx7-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-PEEaS-bJTtw68YUoyjQ-10" value="イートイン&lt;br&gt;(Presenter)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
+        <mxCell id="-PEEaS-bJTtw68YUoyjQ-10" value="イートイン係&lt;br&gt;(Presenter)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
           <mxGeometry x="-160" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-PEEaS-bJTtw68YUoyjQ-11" value="ターリー&lt;br&gt;(View Model)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
@@ -250,7 +250,7 @@
         <mxCell id="-PEEaS-bJTtw68YUoyjQ-34" value="印度のスパイス農家&lt;br&gt;(Database)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
           <mxGeometry x="1130" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-PEEaS-bJTtw68YUoyjQ-37" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#B5B5B5;" edge="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
+        <mxCell id="-PEEaS-bJTtw68YUoyjQ-37" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#8A8A8A;" edge="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="400" as="sourcePoint" />
             <mxPoint x="860" as="targetPoint" />
@@ -262,19 +262,19 @@
             <mxPoint x="1280" y="-1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-PEEaS-bJTtw68YUoyjQ-42" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#B5B5B5;" edge="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
+        <mxCell id="-PEEaS-bJTtw68YUoyjQ-42" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#8A8A8A;" edge="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-560" as="sourcePoint" />
             <mxPoint x="-560" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-PEEaS-bJTtw68YUoyjQ-43" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#B5B5B5;" edge="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
+        <mxCell id="-PEEaS-bJTtw68YUoyjQ-43" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#8A8A8A;" edge="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1280" y="440" as="sourcePoint" />
             <mxPoint x="-560" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-PEEaS-bJTtw68YUoyjQ-44" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#B5B5B5;" edge="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
+        <mxCell id="-PEEaS-bJTtw68YUoyjQ-44" value="" style="endArrow=none;html=1;rounded=0;shape=link;strokeColor=#8A8A8A;" edge="1" parent="OF-NH1eZ6VVbjprf6gx7-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1280" y="440" as="sourcePoint" />
             <mxPoint x="1280" as="targetPoint" />
